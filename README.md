@@ -7,7 +7,7 @@ It enables artisans to upload products using **voice + a single photo**, while A
 
 ## 🏷️ Hackathon Details
 
-- **Team Name:** FarmHouse  
+- **Team Name:** FarmHouse
 - **Theme:** Build for Rural India  
 - **Domain:** Livelihoods & Inclusion  
 - **University:** ITM University, Gwalior  
@@ -52,7 +52,7 @@ As a result, over **200+ million artisans** remain digitally excluded, earning b
    - Product title
    - Detailed description
    - Tags & translations
-6. AI suggests fair pricing
+6. Add Pricing
 7. Voice confirmation → product goes live
 
 ---
@@ -63,14 +63,12 @@ As a result, over **200+ million artisans** remain digitally excluded, earning b
 - Voice-based onboarding & product upload
 - Works for **low-literacy, non-English users**
 - AI-generated listings in seconds
-- Fair price recommendations
 - Simple, icon-based UI
 
 ### 🛒 Buyer Side
 - Browse authentic handmade products
 - Read artisan stories
 - Clean, modern e-commerce experience
-- UPI-based purchase flow (future scope)
 
 ### 🤖 AI Capabilities (MVP + Planned)
 - Voice-to-Text (regional languages)
@@ -142,10 +140,10 @@ To run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone <GITHUB_CLASSROOM_REPO_LINK>
+git clone https://github.com/<your-username>/<your-repo-name>.git
 
-# 2. Navigate into the project folder
-cd craftconnect-squarehacks
+# 2. Navigate into the project directory
+cd <your-repo-name>
 
 # 3. Install dependencies
 npm install
@@ -175,7 +173,6 @@ npm run dev
 ## 🔮 Future Scope
 
 - Multi-language voice support (12+ Indian regional languages)
-- Full backend integration with database and authentication
 - AI-powered price recommendation using market and trend data
 - Advanced image enhancement using computer vision models
 - UPI-based payments and order tracking
