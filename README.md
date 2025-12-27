@@ -156,3 +156,42 @@ npm install
 # 4. Start the development server
 npm run dev
 ```
+
+## 🎥 Demo
+
+🔗 **Live Demo / Demo Video Link:**  
+
+
+---
+
+## 📈 Impact & Expected Outcomes
+
+- **Income Growth:** Artisans retain **80–90% of earnings** by eliminating middlemen  
+- **Time Efficiency:** Product listing time reduced from **~30 minutes to under 2 minutes**
+- **Digital Inclusion:** Voice-first interface enables participation of **low-literacy, non-English users**
+- **Scale:** Potential to onboard **200+ million rural artisans** across India
+- **Craft Preservation:** Makes traditional crafts economically sustainable, reducing migration and skill loss
+- **Gender Empowerment:** Enables women-led artisan groups to access markets independently
+
+---
+
+## 🔮 Future Scope
+
+- Multi-language voice support (12+ Indian regional languages)
+- Full backend integration with database and authentication
+- AI-powered price recommendation using market and trend data
+- Advanced image enhancement using computer vision models
+- UPI-based payments and order tracking
+- Logistics integration for pan-India and global shipping
+- Global marketplace for authentic handmade crafts
+- Digital cooperatives and bulk-order support for artisans
+
+---
+
+## 🙌 Acknowledgements
+
+Built with ❤️ during **Square Hacks 2025**  
+Organized by **Tale of Humankind Foundation** & **Ashoka Innovators for the Public**
+
+Special thanks to mentors, organizers, and fellow participants for guidance and inspiration.
+
