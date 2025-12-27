@@ -65,4 +65,25 @@ CraftConnect solves this by introducing a **voice-first selling experience**:
 ---
 
 ## 🗂️ Project Structure
+├── src
+│   ├── components
+│   │   ├── ui                # Reusable UI components
+│   │   ├── VoiceDescription.tsx
+│   │   ├── SellFlow.tsx
+│   │   ├── BuyerView.tsx
+│   │   ├── LoginScreen.tsx
+│   │   ├── WelcomeScreen.tsx
+│   │   └── ...
+│   ├── guidelines
+│   │   └── Guidelines.md
+│   ├── styles
+│   │   └── globals.css
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── index.css
+├── index.html
+├── package.json
+├── vite.config.ts
+├── README.md
+└── .gitignore
 
