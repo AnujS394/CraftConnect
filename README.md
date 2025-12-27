@@ -93,21 +93,18 @@ As a result, over **200+ million artisans** remain digitally excluded, earning b
 
 ## 🧑‍💻 Tech Stack
 
-### Frontend
-- React + TypeScript
-- Vite
-- Tailwind CSS
-- Reusable UI component system
-
-### AI & Logic (Prototype Scope)
-- Voice-based flow handling
-- AI-assisted content structuring
-- Simulated AI outputs for MVP demo
-
-### Tooling
-- GitHub Classroom
-- Node.js & npm
-- VS Code
+| Layer        | Technology / Tool        | Purpose |
+|--------------|--------------------------|---------|
+| Frontend     | React + TypeScript       | Building a scalable, component-based user interface |
+| Build Tool   | Vite                     | Fast development server and optimized builds |
+| Styling      | Tailwind CSS             | Utility-first styling for responsive, clean UI |
+| UI Components| Custom Reusable Components | Low-literacy-friendly, accessible design |
+| Voice Input  | Browser Speech APIs (Prototype) | Capturing voice descriptions from artisans |
+| AI Logic     | AI-assisted Content Flow (Prototype) | Generating structured product listings |
+| Image Handling | Basic Image Processing (Prototype) | Preparing images for product listings |
+| Tooling      | GitHub Classroom         | Version control and hackathon submission |
+| Dev Tools    | VS Code                  | Development environment |
+| Package Manager | npm                   | Dependency management |
 
 ---
 
