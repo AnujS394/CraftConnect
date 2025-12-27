@@ -65,6 +65,8 @@ CraftConnect solves this by introducing a **voice-first selling experience**:
 ---
 
 ## 🗂️ Project Structure
+
+'''bash
 ├── src
 │   ├── components
 │   │   ├── ui                # Reusable UI components
@@ -86,4 +88,4 @@ CraftConnect solves this by introducing a **voice-first selling experience**:
 ├── vite.config.ts
 ├── README.md
 └── .gitignore
-
+'''
