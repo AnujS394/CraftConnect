@@ -154,11 +154,9 @@ npm run dev
 
 ## 🎥 Demo
 
-🔗 **Live Demo / Demo Video Link:**  
+🔗 ** Demo Video Link:**  
 **Demo Video Link**
 https://drive.google.com/drive/folders/1H1z9gDqSJZJubeK58cnoORpC4Bow0Fua?usp=sharing
-**Live Demo**
-https://crafttconnect-git-main-khushboocodes-projects.vercel.app?_vercel_share=AnqxllDGuLMoB05XBq891wocRYz2anHb
 ---
 
 ## 📈 Impact & Expected Outcomes
